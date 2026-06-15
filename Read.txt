@@ -1,0 +1,1 @@
+Simply move all the files from the copas, copas1, copas2 folder to the del_pierro_custom/stream folder.
